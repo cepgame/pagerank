@@ -14,7 +14,7 @@ d - коэффициент демпфирования, который можно
 Итоговый рейтинг страницы Включает коэффициент демпфирования 0,85, который обычно устанавливается между 0 и 1.
 InternalNodeNumber представляет узел, для которого вы в настоящий момент рассчитываете его PageRank.
 ExternalNodeNumber представляет узлы, отличные от InternalNodeNumber.
-
+https://seoprofy.ua/wp-content/themes/seoprofy_ua/img/logo.png
 Входные данные:
 <?php
 $links = array( 
